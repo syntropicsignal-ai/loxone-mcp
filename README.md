@@ -3,6 +3,7 @@
 [![CI](https://github.com/syntropicsignal-ai/loxone-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/syntropicsignal-ai/loxone-mcp/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@syntropic/loxone-mcp.svg)](https://www.npmjs.com/package/@syntropic/loxone-mcp)
 [![npm downloads](https://img.shields.io/npm/dm/@syntropic/loxone-mcp.svg)](https://www.npmjs.com/package/@syntropic/loxone-mcp)
+[![Glama](https://glama.ai/mcp/servers/syntropicsignal-ai/loxone-mcp/badges/score.svg)](https://glama.ai/mcp/servers/syntropicsignal-ai/loxone-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 An MCP (Model Context Protocol) server that connects AI assistants to a Loxone Miniserver smart home system.
